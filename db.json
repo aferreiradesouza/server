@@ -1,9 +1,16 @@
 {
-    "teste": {
-        "arthur": "dawdad",
-        "arthur5": "dawdad",
-        "arthur4": "dawdad",
-        "arthur3": "dawdad",
-        "arthur2": "dawdad"
-    }
+    "livros": [
+        {"label": "1"},
+        {"label": "2"},
+        {"label": "3"},
+        {"label": "4"},
+        {"label": "5"}
+    ],
+    "escritores": [
+        {"nome": "Fulano 1"},
+        {"nome": "Fulano 2"},
+        {"nome": "Fulano 3"},
+        {"nome": "Fulano 4"},
+        {"nome": "Fulano 5"}
+    ]
 }

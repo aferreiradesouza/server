@@ -1,0 +1,34 @@
+{
+    "infoResult": {
+        "success": true,
+        "type": "PUPPETEER",
+        "resumo": {
+            "time": "Mon Aug 10 2020 17:18:40 GMT-0300 (Horário Padrão de Brasília)",
+            "location": {
+                "id": 1,
+                "city": "São Paulo",
+                "code": "sa_east_1",
+                "sigla": "BR"
+            },
+            "responseTime": 23156
+        },
+        "log": [
+            "Aug 19 14:14:00 - DEBUG - Starting job\n",
+            "Aug 19 14:14:00 - DEBUG - Compiling environment variables\n",
+            "Aug 19 14:14:00 - DEBUG - Running script\n",
+            "Aug 19 14:14:02 - INFO  - Thanks for registering\n",
+            "\n\n",
+            "Aug 19 14:14:03 - DEBUG - Run finished\n",
+            "Aug 19 14:14:03 - DEBUG - Uploading screenshots\n",
+            "Aug 19 14:14:03 - DEBUG - Job finished successfully\n",
+            "Aug 19 14:14:03 - DEBUG - Uploading log file"
+        ],
+        "evidences": [
+            {
+                "name": "612a2106-ea35-4da4-9473-67bbdf1b91ba_1597857240016_us-west-1_mock-site.jpg",
+                "url": "https://s3.us-west-1.amazonaws.com/fn-screenshots-us-west-1-prod/612a2106-ea35-4da4-9473-67bbdf1b91ba_1597857240016_us-west-1_mock-site.jpg",
+                "image": true
+            }
+        ]
+    }
+}

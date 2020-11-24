@@ -1,0 +1,69 @@
+{
+    "ocorrencias": [
+        {
+            "endpointId": "911c98cb-3bb2-4df1-3524-08d82cbe712c",
+            "ocorrencias": [
+                {
+                    "data": "2020-08-04T17:40:21.3840000Z",
+                    "apiId": "025e2e80-e731-4832-1571-08d82cbe712b",
+                    "endpointId": "911c98cb-3bb2-4df1-3524-08d82cbe712c",
+                    "duracao": 11.0,
+                    "codigo": 403,
+                    "ocorrencia": "Forbidden"
+                }
+            ]
+        },
+        {
+            "endpointId": "df302438-ff05-4d11-3525-08d82cbe712c",
+            "ocorrencias": [
+                {
+                    "data": "2020-08-04T17:40:29.8560000Z",
+                    "apiId": "31b3de8f-f2eb-41b0-1572-08d82cbe712b",
+                    "endpointId": "df302438-ff05-4d11-3525-08d82cbe712c",
+                    "duracao": 102.0,
+                    "codigo": 503,
+                    "ocorrencia": "ServiceUnavailable"
+                }
+            ]
+        },
+        {
+            "endpointId": "b2d7478b-3967-4072-3526-08d82cbe712c",
+            "ocorrencias": [
+                {
+                    "data": "2020-08-04T17:40:38.1430000Z",
+                    "apiId": "31b3de8f-f2eb-41b0-1572-08d82cbe712b",
+                    "endpointId": "b2d7478b-3967-4072-3526-08d82cbe712c",
+                    "duracao": 104.0,
+                    "codigo": 503,
+                    "ocorrencia": "ServiceUnavailable"
+                }
+            ]
+        },
+        {
+            "endpointId": "54d18c03-ff8b-466d-3527-08d82cbe712c",
+            "ocorrencias": [
+                {
+                    "data": "2020-08-04T17:40:46.4800000Z",
+                    "apiId": "31b3de8f-f2eb-41b0-1572-08d82cbe712b",
+                    "endpointId": "54d18c03-ff8b-466d-3527-08d82cbe712c",
+                    "duracao": 104.0,
+                    "codigo": 503,
+                    "ocorrencia": "ServiceUnavailable"
+                }
+            ]
+        },
+        {
+            "endpointId": "aebc05d3-e1d3-4795-8dbf-08d838810cdb",
+            "ocorrencias": [
+                {
+                    "data": "2020-08-04T17:41:32.6480000Z",
+                    "apiId": "444c6f45-58b7-45c7-6a97-08d838810cd9",
+                    "endpointId": "aebc05d3-e1d3-4795-8dbf-08d838810cdb",
+                    "duracao": 1889.0,
+                    "codigo": 200,
+                    "ocorrencia": "OK"
+                }
+            ]
+        }
+    ]
+}

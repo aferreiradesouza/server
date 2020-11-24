@@ -1,0 +1,99 @@
+{
+    "pendencia": {
+        "statusPendente": false
+    },
+    "endpoint": [
+        {
+            "id": "025e2e80-e731-4832-1571-08d82cbe712b",
+            "nome": "Api de Exemplo (Github)",
+            "protocolo": "HTTPS",
+            "subdominio": "api",
+            "raizDominio": "github.com",
+            "porta": 443,
+            "endpoints": [
+                {
+                    "id": "911c98cb-3bb2-4df1-3524-08d82cbe712c",
+                    "nome": "Usuários",
+                    "rota": "users?since=135",
+                    "verbo": "GET",
+                    "corpo": "",
+                    "certificado": "00000000-0000-0000-0000-000000000000",
+                    "tags": [
+                        {
+                            "id": "31173fe2-6af8-4a94-ea45-08d82cbe712e",
+                            "nome": "Exemplo",
+                            "cor": "#5eba7d"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "31b3de8f-f2eb-41b0-1572-08d82cbe712b",
+            "nome": "Api de Exemplo (Rede Social de Cidades)",
+            "protocolo": "HTTPS",
+            "subdominio": "www",
+            "raizDominio": "redesocialdecidades.org.br",
+            "porta": 443,
+            "endpoints": [
+                {
+                    "id": "df302438-ff05-4d11-3525-08d82cbe712c",
+                    "nome": "Usuários",
+                    "rota": "users",
+                    "verbo": "GET",
+                    "corpo": "",
+                    "certificado": "00000000-0000-0000-0000-000000000000",
+                    "tags": []
+                },
+                {
+                    "id": "b2d7478b-3967-4072-3526-08d82cbe712c",
+                    "nome": "Cidades",
+                    "rota": "citie",
+                    "verbo": "GET",
+                    "corpo": "",
+                    "certificado": "00000000-0000-0000-0000-000000000000",
+                    "tags": []
+                },
+                {
+                    "id": "54d18c03-ff8b-466d-3527-08d82cbe712c",
+                    "nome": "Networks",
+                    "rota": "networks",
+                    "verbo": "POST",
+                    "corpo": "",
+                    "certificado": "00000000-0000-0000-0000-000000000000",
+                    "tags": [
+                        {
+                            "id": "9a74e445-837d-43c4-ea47-08d82cbe712e",
+                            "nome": "Importante",
+                            "cor": "#5eba7d"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "444c6f45-58b7-45c7-6a97-08d838810cd9",
+            "nome": "Million dollar",
+            "protocolo": "HTTP",
+            "subdominio": "www",
+            "raizDominio": "milliondollarhomepage.com",
+            "porta": 80,
+            "endpoints": [
+                {
+                    "id": "aebc05d3-e1d3-4795-8dbf-08d838810cdb",
+                    "nome": "Million dollar",
+                    "rota": "",
+                    "verbo": "GET",
+                    "certificado": "00000000-0000-0000-0000-000000000000",
+                    "tags": [
+                        {
+                            "id": "31173fe2-6af8-4a94-ea45-08d82cbe712e",
+                            "nome": "Exemplo",
+                            "cor": "#5eba7d"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "filtro": {
+        "metodos": [
+            "GET",
+            "POST"
+        ],
+        "tags": [
+            {
+                "id": "31173fe2-6af8-4a94-ea45-08d82cbe712e",
+                "nome": "Exemplo",
+                "cor": "#5eba7d"
+            },
+            {
+                "id": "9a74e445-837d-43c4-ea47-08d82cbe712e",
+                "nome": "Importante",
+                "cor": "#5eba7d"
+            }
+        ],
+        "apis": [
+            {
+                "id": "025e2e80-e731-4832-1571-08d82cbe712b",
+                "nome": "Api de Exemplo (Github)",
+                "qtdEndpoints": 1
+            },
+            {
+                "id": "31b3de8f-f2eb-41b0-1572-08d82cbe712b",
+                "nome": "Api de Exemplo (Rede Social de Cidades)",
+                "qtdEndpoints": 3
+            },
+            {
+                "id": "444c6f45-58b7-45c7-6a97-08d838810cd9",
+                "nome": "Million dollar",
+                "qtdEndpoints": 1
+            }
+        ]
+    }
+}

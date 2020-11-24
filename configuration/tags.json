@@ -1,0 +1,14 @@
+{
+    "tags": [
+        {
+            "id": "31173fe2-6af8-4a94-ea45-08d82cbe712e",
+            "nome": "Exemplo",
+            "cor": "#5eba7d"
+        },
+        {
+            "id": "9a74e445-837d-43c4-ea47-08d82cbe712e",
+            "nome": "Importante",
+            "cor": "#5eba7d"
+        }
+    ]
+}

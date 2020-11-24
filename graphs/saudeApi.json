@@ -1,0 +1,8 @@
+{
+    "saudeApi": [
+        {
+            "api": "string",
+            "porcentagem": 80
+        }
+    ]
+}
